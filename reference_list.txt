@@ -1,0 +1,121 @@
+1.	Ahmad, F., Sarkar, A., & Debnath, N. C. (2017). QoS lake: Challenges, Design and Technologies. Proceedings of the 2017 International Conference on Recent Advances in Signal Processing, Telecommunications & Computing (SigTelCom), 65–70. https://doi.org/10.1109/SIGTELCOM.2017.7849797
+2.	 Ahmadian, S. (2016). A Good Data Lake Starts with a Good Blueprint. https://www.arcadiadata.com/blog/a-good-data-lake-starts-with-a-good-blueprint/
+3.	 Alserafi, A., Abelló, A., Romero, O., & Calders, T. (2016). Towards Information Profiling: Data Lake Content Metadata Management. Proceedings of the 2016 IEEE 16th International Conference on Data Mining Workshops (ICDMW), 178–185. https://doi.org/10.1109/ICDMW.2016.0033
+4.	Bagozi, A., Bianchini, D., de Antonellis, V., Garda, M., & Melchiori, M. (2019). Personalised Exploration Graphs on Semantic Data Lakes. Proceedings of the 18th On the Move to Meaningful Internet Systems Conferences (OTM 2019). https://doi.org/10.1007/978-3-030-33246-4_2
+5.	Bauer, D., Froese, F., Garcés-Erice, L., Giblin, C., Labbi, A., Nagy, Z. A., Pardon, N., Rooney, S., Urbanetz, P., Vetsch, P., & Wespi, A. (2021). Building and Operating a Large-Scale Enterprise Data Analytics Platform. Big Data Research, 23, 100181. https://doi.org/10.1016/j.bdr.2020.100181
+6.	 Bethke, U. (2017). Are Data Lakes Fake News? https://sonra.io/2017/08/08/are-data-lakes-fake-news/
+7.	 Bogatu, A., Fernandes, A. A. A., Paton, N. W., & Konstantinou, N. (2020). Dataset Discovery in Data Lakes. 2020 IEEE 36th International Conference on Data Engineering (ICDE), 709–720. https://doi.org/10.1109/ICDE48307.2020.00067
+8.	Campbell, C. (2015). Top Five Differences between Data Lakes and Data Warehouses. https://www.blue-granite.com/blog/bid/402596/top-five-differences-between-data-lakes-and-data-warehouses
+9.	Castanedo, F., & Gidley, S. (2017). Understanding Metadata (1st ed.). O’Reilly Media, Inc.
+10.	  Chen, T.-Y., Yang, C.-T., Kristiani, E., & Cheng, C.-T. (2018). On Construction of a Power Data Lake Platform Using Spark. Proceedings of the 6th International Conference on Frontier Computing (FC 2018).
+11.	  Chessell, M., Scheepers, F., Nguyen, N., van Kessel, R., & van der Starre, R. (2014). Governing and Managing Big Data for Analytics and Decision Makers (IBM, Ed.). IBM.
+12.	  Chroust, T., Nemecek, J., & Kürschner, S. (2015). Data Lakes - Möglichkeiten und Herausforderungen für eine effiziente Erkenntnisgewinnung. HSG Trendmonitor, 4.
+13.	  de Leon, T. (2016). Data Modeling a Data Lake Crushing Big Data. https://www.youtube.com/watch?v=4ivUAk15gcc
+14.	  de Leon, T. (2017). Digital - Ingest Curate & Consume - Data Lake Framework. https://www.youtube.com/watch?v=vXwYctw5Gyc
+15.	  Dehghani, Z. (2019). How to Move Beyond a Monolithic Data Lake to a Distributed Data Mesh. https://martinfowler.com/articles/data-monolith-to-mesh.html
+16.	  Dennis, A. L. (2017). Case Study: Implementing Data Governance for Data Lakes and Big Data. http://www.dataversity.net/case-study-implementing-data-governance-data-lakes-big-data/
+17.	  Derakhshannia, M., Gervet, C., Hajj-Hassan, H., Laurent, A., & Martin, A. (2019). Life and Death of Data in Data Lakes: Preserving Data Usability and Responsible Governance. Proceedings of the 6th International Conference on Internet Science (INSCI 2019), 302–309. https://doi.org/10.1007/978-3-030-34770-3_24
+18.	  Diamantini, C., lo Giudice, P., Musarella, L., Potena, D., Storti, E., & Ursino, D. (2018). An approach to extracting thematic views from highly heterogeneous sources of a data lake. Proceedings of the 26th Italian Symposium on Advanced Database Systems (SEBD 2018).
+19.	  Dixon, J. (2010). Pentaho, Hadoop, and Data Lakes. https://jamesdixon.wordpress.com/2010/10/14/pentaho-hadoop-and-data-lakes/
+20.	  Dixon, J. (2014). Data Lakes Revisited. https://jamesdixon.wordpress.com/2014/09/25/data-lakes-revisited/
+21.	  Dixon, J. (2015). Union of the State – A Data Lake Use Case. https://jamesdixon.wordpress.com/2015/01/22/union-of-the-state-a-data-lake-use-case/
+22.	  Fagan, N. (2017). Data Lakes, hubs and warehouses - when to use what. https://neilfaganblog.wordpress.com/2017/07/17/data-lakes-hubs-and-warehouses-fact-vs-fiction/
+23.	  Fang, H. (2015). Managing data lakes in big data era: What’s a data lake and why has it became popular in data management ecosystem. Proceedings of the 2015 IEEE International Conference on Cyber Technology in Automation, Control, and Intelligent Systems (CYBER 2015), 820–824. https://doi.org/10.1109/CYBER.2015.7288049
+24.	  Farid, M., Roati, A., Ilyas, I. F., Hoffmann, H.-F., Reuters, T., & Chu, X. (2016). CLAMS: Bringing Quality to Data Lakes. Proceedings of the 2016 International Conference on Management of Data (SIGMOD’16), 2089–2092. https://doi.org/10.1145/2882903.2899391
+25.	  Farrugia, A., Claxton, R., & Thompson, S. (2016). Towards social network analytics for understanding and managing enterprise data lakes. Proceedings of the 2016 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2016). https://doi.org/10.1109/ASONAM.2016.7752393
+26.	  Fernandez, R. C., Abedjan, Z., Madden, S., & Stonebraker, M. (2016). Towards large-scale data discovery. Proceedings of the Third International Workshop on Exploratory Search in Databases and the Web (ExploreDB ’16), 3–5. https://doi.org/10.1145/2948674.2948675
+27.	Fritz, M., Albrecht, S., Ziekow, H., & Strüker, J. (2017). Benchmarking Big Data Technologies for Energy Procurement Efficiency. Proceedings of the 23rd America’s Conference on Information Systems (AMCIS 2017).
+28.	  Gao, Y., Huang, S., & Parameswaran, A. (2016). Navigating the Data Lake: Unsupervised Structure Extraction for Text-formatted Data.
+29.	  Gartner Inc. (2014). Gartner Says Beware of the Data Lake Fallacy. https://www.gartner.com/en/newsroom/press-releases/2014-07-28-gartner-says-beware-of-the-data-lake-fallacy
+30.	  GE Reports Staff. (2014). Trawling for Big Insight in the ‘Industrial Data Lake’. https://www.ge.com/reports/post/94808277275/trawling-for-big-insight-in-the-industrial-data-lake/
+31.	  Gorelik, A. (2016). The Enterprise Big Data Lake (T. McGovern, Ed.). O’Reilly Media, Inc.
+32.	  Gryncewicz, W., Sitarska-Buba, M., & Zygała, R. (2020). Agile Approach to Develop Data Lake Based Systems. In M. Hernes, A. Rot, & D. Jelonek (Eds.), Towards Industry 4.0 — Current Challenges in Information Systems (pp. 201–216). Springer. https://doi.org/10.1007/978-3-030-40417-8_12
+33.	  Gupta, S., & Giri, V. (2018). Practical Enterprise Data Lake Insights. Apress. https://doi.org/10.1007/978-1-4842-3522-5
+34.	  Hai, R., Geisler, S., & Quix, C. (2016). Constance: An Intelligent Data Lake System. Proceedings of the 2016 International Conference on Management of Data (SIGMOD’16), 2097–2100.
+35.	  Hai, R., Quix, C., & Zhou, C. (2018). Query Rewriting for Heterogeneous Data Lakes. Proceedings of the 22nd European Conference on Advances in Databases and Information Systems (ADBIS 2018).
+36.	  Haines, R. (2014). Is the “Data Lake” the Best Architecture to Support Big Data? https://infocus.dellemc.com/rachel_haines/is-the-data-lake-the-best-architecture-to-support-big-data/
+37.	  Halevy, A., Korn, F., Noy, N. F., Olston, C., Polyzotis, N., Roy, S., & Whang, S. E. (2016). Managing Google’s data lake: an overview of the Goods system. IEEE Data Engineering Bulletin, 39, 5–14.
+38.	  Houle, P. (2017). Data Lakes, Data Ponds, and Data Droplets. http://ontology2.com/the-book/data-lakes-ponds-and-droplets.html
+39.	  IBM Analytics. (2016). The governed data lake approach. IBM.
+40.	  IBM. (2016). IBM Industry Model support for a data lake architecture. IBM.
+41.	Impetus. (2015a). Five Steps to Implement an Enterprise Data Lake. Impetus Technologies, Inc. http://www.impetus.com/save_collateral_file/146
+42.	Impetus. (2015b). Implementing the Enterprise Data Lake. Impetus Technologies, Inc.
+43.	Inmon, B. (2016). Data Lake Architecture - Designing the Data Lake and avoiding the Garbage Dump (R. A. Peters, Ed.). Technics Publications.
+44.	 Ismail, N. (2017). 5 secrets of the data lake revealed. http://www.information-age.com/5-secrets-data-lake-revealed-123469035/
+45.	Jarke, M., & Quix, C. (2017). On Warehouses, Lakes, and Spaces: The Changing Role of Conceptual Modeling for Data Integration. In J. Cabot, C. Gómez, O. Pastor, M. R. Sancho, & E. Teniente (Eds.), Conceptual Modeling Perspectives (pp. 231–245). Springer International Publishing AG.
+46.	Kamreddy, K. (2015). Data Governance in the Hadoop Data Lake. http://www.bigdataeverywhere.com/files/denver/BDE_Data_Governance_KAMREDDY.pdf
+47.	Khalid, H., & Zimányi, E. (2019). Using Rule and Goal Based Agents to Create Metadata Profiles. Proceedings of the 23rd European Conference on Advances in Databases and Information Systems (ADBIS 2019), 365–377. https://doi.org/10.1007/978-3-030-30278-8_37
+48.	Khine, P. P., & Wang, Z. S. (2018). Data lake: a new ideology in big data era. ITM Web of Conferences, 17. https://doi.org/10.1051/itmconf/20181703025
+49.	Knowledgent Group Inc. (2014). How to Design a Sucessful Data Lake. Knowledgent Group Inc.
+50.	Krishnan, S. (2014). Dear CIO, what you have is NOT a Data Lake. https://www.kdnuggets.com/2014/07/dear-cio-you-have-not-data-lake.html
+51.	Lewis, B. (2018). Building The Big Data Warehouse, Part 5: The Overall Data Landscape. https://www.digitalistmag.com/cio-knowledge/2018/04/03/building-big-data-warehouse-part-5-overall-data-landscape-06039910
+52.	Li, Y., Zhang, A., Zhang, X., & Wu, Z. (2018). A Data Lake Architecture for Monitoring and Diagnosis System of Power Grid. Proceedings of the 2018 Artificial Intelligence and Cloud Computing Conference on ZZZ - AICCC ’18, 192–198. https://doi.org/10.1145/3299819.3299850
+53.	Llave, M. R. (2018). Data lakes in business intelligence: reporting from the trenches. Procedia Computer Science, 138, 516–524. https://doi.org/10.1016/j.procs.2018.10.071
+54.	lo Giudice, P., Musarella, L., Sofo, G., & Ursino, D. (2019). An approach to extracting complex knowledge patterns among concepts belonging to structured, semi-structured and unstructured sources in a data lake. Information Sciences, 478, 606–626. https://doi.org/10.1016/j.ins.2018.11.052
+55.	Lock, M. (2016). Maximizing your Data Lake with a Cloud or Hybrid Approach. In Aberdeen Group.
+56.	Maccioni, A., & Torlone, R. (2018). KAYAK: A Framework for Just-in-Time Data Preparation in a Data Lake. Proceedings of the 30th International Conference on Advanced Information Systems Engineering (CAiSE 2018), 474–489. https://doi.org/10.1007/978-3-319-91563-0_29
+57.	Madera, C., & Laurent, A. (2016). The Next Information Architecture Evolution: The Data Lake Wave. Proceedings of the 8th International Conference on Management of Digital EcoSystems (MEDES), 174–180. https://doi.org/10.1145/3012071.3012077
+58.	Madsen, M. (2015). How to Build an Enterprise Data Lake: Important Considerations before Jumping In. Third Nature Inc.
+59.	Mami, M. N., Graux, D., Scerri, S., Jabeen, H., Auer, S., & Lehmann, J. (2019). Uniform Access to Multiform Data Lakes using Semantic Technologies. Proceedings of the 21st International Conference on Information Integration and Web-Based Applications & Services (IiWAS2019). https://doi.org/10.1145/3366030.3366054
+60.	Marjani, M., Nasaruddin, F., Gani, A., Karim, A., Hashem, I. A. T., Siddiqa, A., & Yaqoob, I. (2017). Big IoT Data Analytics: Architecture, Opportunities, and Open Research Challenges. IEEE Access, 5, 5247–5261. https://doi.org/10.1109/ACCESS.2017.2689040
+61.	Martin, S. (2016). Dealing with Big Data: The ascendency of data lakes. Http://Analytics-Magazine.Org/, Jan/Feb, 32–39. http://analytics-magazine.org/dealing-with-big-data-the-ascendency-of-data-lakes/
+62.	Martínez-Prieto, M. A., Bregon, A., García-Miranda, I., Álvarez-Esteban, P. C., Díaz, F., & Scarlatti, D. (2017). Integrating Flight-related Information into a (Big) data lake. Proceedings of the 36th IEEE/AIAA Digital Avionics Systems Conference (DASC). https://doi.org/10.1109/DASC.2017.8102023
+63.	Mathis, C. (2017). Data Lakes. Datenbank-Spektrum, 17(3), 289–293. https://doi.org/10.1007/s13222-017-0272-7
+64.	Mehmood, H., Gilman, E., Cortes, M., Kostakos, P., Byrne, A., Valta, K., Tekes, S., & Riekki, J. (2019). Implementing Big Data Lake for Heterogeneous Data Sources. 2019 IEEE 35th International Conference on Data Engineering Workshops (ICDEW), 37–44. https://doi.org/10.1109/ICDEW.2019.00-37
+65.	Microsoft. (2017). Overview of Microsoft Azure Data Lake Analytics. https://docs.microsoft.com/en-us/azure/data-lake-analytics/data-lake-analytics-overview
+66.	Miloslavskaya, N., & Tolstoy, A. (2016a). Application of Big Data, Fast Data, and Data Lake Concepts to Information Security Issues. Proceedings of the IEEE 4th International Conference on Future Internet of Things and Cloud Workshops (FiCloudW 2016), 148–153. https://doi.org/10.1109/W-FiCloud.2016.41
+67.	Miloslavskaya, N., & Tolstoy, A. (2016b). Big Data, Fast Data and Data Lake Concepts. Procedia Computer Science, 88, 300–305. https://doi.org/10.1016/j.procs.2016.07.439
+68.	MongoDB. (2017). Unlocking Operational Intelligence from the Data Lake. MongoDB, 12.
+69.	Munshi, A. A., & Mohamed, Y. A.-R. I. (2018). Data Lake Lambda Architecture for Smart Grids Big Data Analytics. IEEE Access, 6, 40463–40471. https://doi.org/10.1109/ACCESS.2018.2858256
+70.	Nargesian, F., Zhu, E., Miller, R. J., & Pu, K. Q. (2019). Data Lake Management: Challenges and Opportunities. Proceedings of the 45th International Conference on Very Large Data Bases (VLDB’19).
+71.	Ness Corporate. (2015). A Dive in Enterprise Data Lakes. https://www.ness.com/a-dive-in-enterprise-data-lakes/
+72.	Nogueira, I., Romdhane, M., & Darmont, J. (2018). Modeling Data Lake Metadata with a Data Vault. Proceedings of the 22nd International Database Engineering Applications Symposium (IDEAS 2018).
+73.	O’Leary, D. E. (2014). Embedding AI and Crowdsourcing in the Big Data Lake. IEEE Intelligent Systems, 29(5), 70–73. https://doi.org/10.1109/MIS.2014.82
+74.	O’Sullivan, P. (2017a). Charting the data lake: Building a business language for data lake. http://www.ibmbigdatahub.com/blog/charting-data-lake-building-business-language-data-lake
+75.	O’Sullivan, P. (2017b). Charting the Data Lake: How models can support the data scientist. http://www.ibmbigdatahub.com/blog/charting-data-lake-how-models-can-support-data-scientist
+76.	O’Sullivan, P. (2017c). Charting the data lake: Model normalization patterns for data lakes. http://www.ibmbigdatahub.com/blog/charting-data-lake-model-normalization-patterns-data-lakes
+77.	O’Sullivan, P. (2017d). Charting the data lake: Rethinking data models for data lakes. http://www.ibmbigdatahub.com/blog/charting-data-lake-rethinking-data-models-data-lakes
+78.	O’Sullivan, P. (2017e). Charting the data lake: Using the data models with schema-on-read and schema-on-write. http://www.ibmbigdatahub.com/blog/charting-data-lake-using-data-models-schema-read-and-schema-write
+79.	Park, S., Cha, B., Cha, Y., Mo, J., Oh, S., & Kim, J. (2018). Design of Connected Data Lake System based on Micro Cloud Storage. Proceedings of the 9th International Conference on Information and Communication Technology Convergence (ICTC), 917–918. https://doi.org/10.1109/ICTC.2018.8539510
+80.	Patel, P. (2017). Zaloni Zip: Solving the Challenges of Hybrid Data Lake Architecture. https://resources.zaloni.com/blog/zaloni-zip-solving-the-challenges-of-hybrid-data-lake-architecture
+81.	Patel, P., Wood, G., & Diaz, A. (2017). Data Lake Governance Best Practices. The DZone Guide to Big Data - Data Science & Advanced Analytics, 4, 6–7.
+82.	Peles, A. (2016). Data Lake architecture considerations. https://www-01.ibm.com/events/wwe/grp/grp036.nsf/vLookupPDFs/Q1 2016 Insight Israel_Data Lake Architecture- Alex Peles /$file/Q1 2016 Insight Israel_Data Lake Architecture- Alex Peles .pdf
+83.	Quay Consulting. (2018). Big Data, Data Lakes and Data Ponds: A quick reference guide. http://www.quayconsulting.com.au/news/big-data-data-ponds-and-data-lakes-a-quick-reference-guide/
+84.	Quix, C. (2015). Data Lakes: Lösung oder neue Herausforderung für Big-Data-Integration? https://humit.de/download/quix-bitkom-ak-nov-2015.pdf
+85.	Quix, C., Hai, R., & Vatov, I. (2016). Metadata Extraction and Management in Data Lakes With GEMMS. Complex Systems Informatics and Modeling Quarterly, 9(9), 67–83. https://doi.org/10.7250/csimq.2016-9.04
+86.	Raju, R., Mital, R., & Finkelsztein, D. (2018, September). Data Lake Architecture for Air Traffic Management. Proceedings of the IEEE/AIAA 37th Digital Avionics Systems Conference (DASC 2018). https://doi.org/10.1109/DASC.2018.8569361
+87.	Ramakrishnan, R., Ramos, R., Sharman, N., Xu, Z., Barakat, Y., Douglas, C., Draves, R., Naidu, S. S., Shastry, S., Sikaria, A., Sun, S., Sridharan, B., Venkatesan, R., Douceur, J. R., Kasturi, P., Krishnamachari-Sampath, B., Krishnamoorthy, K., Li, P., Manu, M., & Michaylov, S. (2017). Azure Data Lake Store. Proceedings of the 2017 ACM International Conference on Management of Data (SIGMOD ’17), 51–63. https://doi.org/10.1145/3035918.3056100
+88.	Ravat, F., & Zhao, Y. (2019a). Data Lakes: Trends and Perspectives. Proceedings of the 30th International Conference on Database and Expert Systems Applications (DEXA 2019), 304–313. https://doi.org/10.1007/978-3-030-27615-7_23
+89.	Ravat, F., & Zhao, Y. (2019b). Metadata Management for Data Lakes. Proceedings of the 23rd European Conference on Advances in Databases and Information Systems (ADBIS 2019). https://doi.org/10.1007/978-3-030-30278-8_5
+90.	Reiss, M., & Reimann, S. (2017). Das Data Lake Konzept: Die Schatzsuche im Datensee geht weiter. https://www.it-daily.net/it-management/big-data-analytics/15602-das-data-lake-konzept-die-schatzsuche-im-datensee-geht-weiter
+91.	Rooney, S., Bauer, D., Garcés-Erice, L., Urbanetz, P., Froese, F., & Tomić, S. (2019). Experiences with Managing Data Ingestion into a Corporate Datalake. Proceedings of the 5th International Conference on Collaboration and Internet Computing (CIC 2019).
+92.	Russom, P. (2017). Data Lakes - Purposes, Practices, Patterns, and Platforms. TDWI, Q1.
+93.	Sangupamba, O. M., Prat, N., & Comyn-Wattiau, I. (2014). Business Intelligence and Big Data in the Cloud: Opportunities for Design-Science Researchers. Proceedings of the 33rd International Conference on Conceptual Modeling (ER 2014).
+94.	Sankaranarayanan, H. B., & Lalchandani, J. (2017). Passenger Reviews Reference Architecture using Big Data Lakes. Proceedings of the 7th International Conference on Cloud Computing, Data Science & Engineering - Confluence, 204–209. https://doi.org/10.1109/CONFLUENCE.2017.7943150
+95.	Santos, M. Y., Oliveira e Sá, J., Andrade, C., Vale Lima, F., Costa, E., Costa, C., Martinho, B., & Galvão, J. (2017). A Big Data system supporting Bosch Braga Industry 4.0 strategy. International Journal of Information Management, 37(6), 750–760. https://doi.org/10.1016/j.ijinfomgt.2017.07.012
+96.	Sawadogo, P. N. (2019). Textual Data Analysis from Data Lakes. Proceedings of the 23rd European Conference on Advances in Databases and Information Systems (ADBIS 2019), 558–563. https://doi.org/10.1007/978-3-030-30278-8_54
+97.	Sawadogo, P. N., Scholly, É., Favre, C., Ferey, É., Loudcher, S., & Darmont, J. (2019). Metadata Systems for Data Lakes: Models and Features. Proceedings of the 23rd European Conference on Advances in Databases and Information Systems (ADBIS 2019), 440–451. https://doi.org/10.1007/978-3-030-30278-8_43
+98.	Sawadogo, P., & Darmont, J. (2021). On data lake architectures and metadata management. Journal of Intelligent Information Systems, 56(1), 97–120. https://doi.org/10.1007/s10844-020-00608-7
+99.	Sawadogo, P., Kibata, T., & Darmont, J. (2019). Metadata Management for Textual Documents in Data Lakes. Proceedings of the 21st International Conference on Enterprise Information Systems (ICEIS 2019), 72–83. https://doi.org/10.5220/0007706300720083
+100.	Schmarzo, B. (2014). Data Lake, Data Reservoir, Data Dump…Blah, Blah, Blah…. https://infocus.dellemc.com/william_schmarzo/data-lake-data-reservoir-data-dumpblah-blah-blah/
+101.	Serra, J. (2018). Is the traditional data warehouse dead? https://www.slideshare.net/jamserra/is-the-traditional-data-warehouse-dead
+102.	Sharma, B. (2018). Architecting Data Lakes - Data Management Architectures for Advanced Business Use Cases (2nd ed.). O’Reilly Media, Inc.
+103.	Sholler, D. (2017). Data Lake vs. Data Swamp - Pushing the Analogy. https://www.collibra.com/blog/blogdata-lake-vs-data-swamp-pushing-the-analogy/
+104.	Sicular, S., Tapadinhas, J., & Howson, C. (2017). Derive Value From Data Lakes Using Analytics Patterns. Gartner, Inc. https://www.gartner.com/doc/3803499/derive-value-data-lakes-using
+105.	Singh, K., Paneri, K., Pandey, A., Gupta, G., Sharma, G., Agarwal, P., & Shroff, G. (2016). Visual Bayesian Fusion to Navigate a Data Lake. Proceedings of the 19th International Conference on Information Fusion (FUSION).
+106.	Singh, S. R. (2015). Enterprise Data Hub (Data Lake) an Expansion to the Enterprise Data Warehouse. https://www.linkedin.com/pulse/enterprise-data-hub-lake-expansion-warehouse-sanjeev-ranjan-singh
+107.	Sitarska-Buba, M., & Zygała, R. (2020). Data Lake: Strategic Challenges for Small and Medium Sized Enterprises. In M. Hernes, A. Rot, & D. Jelonek (Eds.), Towards Industry 4.0 — Current Challenges in Information Systems (pp. 183–200). Springer. https://doi.org/10.1007/978-3-030-40417-8_11
+108.	SnapLogic. (2016). Eight Data Management Requirements for the Enterprise Data Lake. https://www.snaplogic.com/blog/data_lake_requirements
+109.	Stefanowski, J., Krawiec, K., & Wrembel, R. (2017). Exploring complex and big data. International Journal of Applied Mathematics and Computer Science, 27(4), 669–679. https://doi.org/10.1515/amcs-2017-0046
+110.	Stein, B., & Morrison, A. (2014). The enterprise data lake: Better integration and deeper analytics. Technology Forecast: Rethinking Integration, 1.
+111.	Stiglich, P. (2014). Data Modeling in the Age of Big Data. Business Intelligence Journal, 19(4), 17–22.
+112.	Sun, Z., Sun, L., & Strang, K. (2018). Big Data Analytics Services for Enhancing Business Intelligence. Journal of Computer Information Systems, 58(2), 162–169. https://doi.org/10.1080/08874417.2016.1220239
+113.	Suriarachchi, I., & Plale, B. (2016). Provenance as Essential Infrastructure for Data Lakes. In Proceedings of the 6th International Provenance and Annotations Workshop (IPAW 2016) (pp. 178–182). https://doi.org/10.1007/978-3-319-40593-3_16
+114.	Tata Consultancy Services. (2017). Enterprise Data Lake for Advanced Analytics. Tata Consultancy Services.
+115.	Terrizzano, I., Schwarz, P., Roth, M., & Colino, J. E. (2015). Data Wrangling: The Challenging Journey from the Wild to the Lake. Proceedings of the 7th Biennial Conference on Innovative Data Systems Research (CIDR’15).
+116.	Theodorou, V., Hai, R., & Quix, C. (2019). A Metadata Framework for Data Lagoons. Proceedings of the 23rd European Conference on Advances in Databases and Information Systems (ADBIS 2019). https://doi.org/10.1007/978-3-030-30278-8_44
+117.	Tovernic, S., Banovic, V., Hrastic, Z., Plantic, K., Sandic, A., & Baranovic, M. (2018). Solution for detecting sensitive data inside a data lake. Proceedings of the 41st International Convention on Information and Communication Technology, Electronics and Microelectronics (MIPRO), 1284–1288. https://doi.org/10.23919/MIPRO.2018.8400232
+118.	Tyagi, P., & Demirkan, H. (2016). Data Lakes: The biggest big data challenges. Analytics, 9(6), 56–63.
+119.	Walker, C., & Alrehamy, H. (2015). Personal Data Lake with Data Gravity Pull. Proceedings of the 2015 IEEE Fifth International Conference on Big Data and Cloud Computing (BDCloud’15), 160–167. https://doi.org/10.1109/BDCloud.2015.62
+120.	Wells, D. (2020). An Architect’s View of the Data Lakehouse: Perplexity and Perspective. Eckerson Group. https://www.eckerson.com/articles/an-architect-s-view-of-the-data-lakehouse-perplexity-and-perspective
+121.	Zikopoulos, P., DeRoos, D., Bienko, C., Buglio, R., & Andrews, M. (2015). Big Data Beyond the Hype (1st ed.). McGraw-Hill Education.
